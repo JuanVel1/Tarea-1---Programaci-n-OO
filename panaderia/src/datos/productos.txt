@@ -1,0 +1,9 @@
+P001,Lengua de caña,1000
+P002,Chicharron,1500
+P003,Pan con queso,3000
+P004,Almohabana,3000
+P005,Torta media libra,20000
+P006,Tinto,1200
+P007,Pintadito,1200
+P008,Pintado,2000
+P009,Bolsa de leche,2500

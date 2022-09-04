@@ -1,0 +1,5 @@
+T001,Tienda de Paco
+T002,Cafeteria de la central
+T003,Cafe Iguana
+T004,Juan Valdez
+T005,Jaque Mate
